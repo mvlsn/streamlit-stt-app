@@ -1,7 +1,7 @@
-av
-deepspeech
-numpy
-pydub
-streamlit
-streamlit_webrtc
-twilio
+google-cloud-speech
+moviepy
+ffmpeg
+opencv-python
+anthropic
+SpeechRecognition
+pyaudio
